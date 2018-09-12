@@ -8,4 +8,4 @@ next world has some aaabbb
 
 stash test
 
-user 1 ccc
+user 1 ddd
